@@ -24,3 +24,4 @@ This project is a collection of interactive data visualizations built using Pyth
 
 ![Screenshot 3](screenshots/India%20Analysis_Census-2011%20%C2%B7%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_28_25.png)
   
+?? Live Demo – Click to try it out! [https://share.streamlit.io/Bhaukali21/Data-Visualisation-Project/main/app.py](https://share.streamlit.io/Bhaukali21/Data-Visualisation-Project/main/app.py)
