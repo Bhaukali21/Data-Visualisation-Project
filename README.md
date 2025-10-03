@@ -1,6 +1,6 @@
 # Data Visualization Project 📊
 
-[**Live Demo – Click to try it out!**](https://share.streamlit.io/Bhaukali21/Data-Visualisation-Project/main/app.py)
+[**Live Demo – Click to try it out!**](https://data-visualisation-project-zr42ntqrpouzke3yqbjxqm.streamlit.app/)
 
 This project is a collection of interactive data visualizations built using Python and Plotly. It helps users explore and understand datasets through geographic and statistical plots.
 
