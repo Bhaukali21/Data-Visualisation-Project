@@ -13,13 +13,13 @@ This project is a collection of interactive data visualizations built using Pyth
 
 ## Screenshots
 
-![Census Dashboard](screenshots/India%20Analysis_Census-2011%20–%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_27_15.png)
+![Census Dashboard](https://raw.githubusercontent.com/Bhaukali21/Data-Visualisation-Project/main/screenshots/India%20Analysis_Census-2011_Streamlit_Google_Chrome_14-07-2025_02_27_15.png)
 
-![Census Screenshot](screenshots/India%20Analysis_Census-2011%20–%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_27_21.png)
+![Census Screenshot](https://raw.githubusercontent.com/Bhaukali21/Data-Visualisation-Project/main/screenshots/India%20Analysis_Census-2011_Streamlit_Google_Chrome_14-07-2025_02_27_21.png)
 
-![Screenshot 1](screenshots/India%20Analysis_Census-2011%20–%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_28_10.png)
+![Screenshot 1](https://raw.githubusercontent.com/Bhaukali21/Data-Visualisation-Project/main/screenshots/India%20Analysis_Census-2011_Streamlit_Google_Chrome_14-07-2025_02_28_10.png)
 
-![Screenshot 2](screenshots/India%20Analysis_Census-2011%20–%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_28_17.png)
+![Screenshot 2](https://raw.githubusercontent.com/Bhaukali21/Data-Visualisation-Project/main/screenshots/India%20Analysis_Census-2011_Streamlit_Google_Chrome_14-07-2025_02_28_17.png)
 
-![Screenshot 3](screenshots/India%20Analysis_Census-2011%20–%20Streamlit%20-%20Google%20Chrome%2014-07-2025%2002_28_25.png)
+![Screenshot 3](https://raw.githubusercontent.com/Bhaukali21/Data-Visualisation-Project/main/screenshots/India%20Analysis_Census-2011_Streamlit_Google_Chrome_14-07-2025_02_28_25.png)
 
